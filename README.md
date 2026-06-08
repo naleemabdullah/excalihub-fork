@@ -2,7 +2,7 @@
   <img src="icons/icon128.png" width="80" alt="Excalihub logo" />
 </p>
 
-<h1 align="center">Excalihub Extension</h1>
+<h1 align="center">Excalihub - Chrome Extension</h1>
 
 <p align="center">
   A Chrome extension that supercharges <a href="https://excalidraw.com">Excalidraw</a> — save &amp; organize drawings, presentation mode, and AI diagram generation, all without leaving the canvas.
